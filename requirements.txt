@@ -1,0 +1,6 @@
+
+# Librerías base — Tema 1 
+numpy 
+pandas
+matplotlib 
+jupyter
