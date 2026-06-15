@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.9106,
+  "precision": 0.3729,
+  "recall": 0.4923,
+  "f1": 0.4243,
+  "roc_auc": 0.8517,
+  "TN": 26364,
+  "FP": 1665,
+  "FN": 1021,
+  "TP": 990,
+  "costo_estimado": 11875000,
+  "modelo": "RandomForestClassifier",
+  "recall_minimo": 0.48
+}
