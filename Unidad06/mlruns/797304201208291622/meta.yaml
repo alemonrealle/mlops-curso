@@ -1,0 +1,9 @@
+artifact_location: file:///workspaces/mlops-curso/Unidad06/mlruns/797304201208291622
+creation_time: 1781576776208
+effective_trace_archival_retention: null
+experiment_id: '797304201208291622'
+last_update_time: 1781576776208
+lifecycle_stage: active
+name: picos-intensidad-tuning
+trace_location: null
+workspace: default

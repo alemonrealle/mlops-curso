@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/mlops-curso/Unidad06/mlruns/797304201208291622/models/m-5de6f0deaffd4303a47fd447ade4b910/artifacts
+creation_timestamp: 1781577969203
+experiment_id: '797304201208291622'
+last_updated_timestamp: 1781577973578
+model_id: m-5de6f0deaffd4303a47fd447ade4b910
+model_type: null
+name: modelo_randomsearch
+source_run_id: 3cc885be48f54583a2c3753bbf46b643
+status: 2
+status_message: null

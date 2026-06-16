@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-curso/Unidad06/mlruns/797304201208291622/58d653db533a4f10afcd28851e68eca7/artifacts
+end_time: 1781577023303
+entry_point_name: ''
+experiment_id: '797304201208291622'
+lifecycle_stage: active
+run_id: 58d653db533a4f10afcd28851e68eca7
+run_name: RandomSearch-DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781577017760
+status: 3
+tags: []
+user_id: codespace

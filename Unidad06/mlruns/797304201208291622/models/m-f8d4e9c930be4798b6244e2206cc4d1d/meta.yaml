@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/mlops-curso/Unidad06/mlruns/797304201208291622/models/m-f8d4e9c930be4798b6244e2206cc4d1d/artifacts
+creation_timestamp: 1781577953292
+experiment_id: '797304201208291622'
+last_updated_timestamp: 1781577958984
+model_id: m-f8d4e9c930be4798b6244e2206cc4d1d
+model_type: null
+name: modelo_gridsearch
+source_run_id: d85b3c4b68d64b6ba6d69a52a8859a7c
+status: 2
+status_message: null
